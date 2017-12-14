@@ -130,6 +130,3 @@ for(i in 1:length(sheetList)) {
 # cor(yHat_QR1, sheet3$y)
 # cor(yHat_LR2, sheet3$y)
 # cor(yHat_QR2, sheet3$y)
-
-
-
